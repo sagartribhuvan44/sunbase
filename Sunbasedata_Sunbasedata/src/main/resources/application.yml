@@ -1,0 +1,4 @@
+api:
+  token: your_actual_token_here
+server:
+  port: 8081
